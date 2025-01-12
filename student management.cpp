@@ -323,6 +323,5 @@ int main() {
             cout << "Invalid choice. Please try again.\n"; // Invalid menu choice
         }
     }
-
-    return 0; // Exit program
+    return 0;
 }
